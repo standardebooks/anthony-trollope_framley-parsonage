@@ -39,37 +39,43 @@
 		<meta property="term" refines="#subject-2">sh85026951</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">4</meta>
+		<dc:description id="description">A young vicar with an aristocratic patron foolishly becomes mired in debt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; is the fourth novel in the “Chronicles of Barsetshire” by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt;, and was published in book form in 1861. It has been praised for its unsentimental depiction of the lives of middle-class people in the mid-Victorian era.&lt;/p&gt;
+			&lt;p&gt;As with the other books in the series, &lt;i&gt;Framley Parsonage&lt;/i&gt; is set in the fictious English county of Barsetshire, and deals with the doings of a variety of families and characters who live in the region, several of whom have appeared in the previous books; but it primarily concerns the young Reverend Mark Robarts.&lt;/p&gt;
+			&lt;p&gt;Robarts has been appointed as vicar of the parish of Framley through the patronage of Lady Lufton of Framley Court, the mother of his long-time friend Ludovic, now Lord Lufton. After he and his wife Fanny take up residence in Framley Parsonage, Robarts is led through his friendship with Ludovic into the society of some loose-living aristocrats. Robarts eventually finds himself weakly consenting to his name being included on a bill for a loan to one of his new connections, Sowerby. By so doing, he becomes liable for debts he cannot possibly satisfy.&lt;/p&gt;
+		&lt;p&gt;An important secondary strand involves Mark Robarts’ sister Lucy, who after their father’s death comes to live with her brother’s family at the parsonage. Through them, she becomes acquainted with Lady Lufton and her son Ludovic and romantic complications ensue.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; was originally published anonymously in serial form in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and such was its popularity, during its publication a hysterical young woman apparently tried to gain notoriety in her country town by claiming to be its author. “The real writer,” we are told, “dealt very gently with the pretender.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2860</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.126297</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Framley_Parsonage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_framley-parsonage</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Buxton Knight</dc:contributor>
+		<meta property="file-as" refines="#artist">Knight, John Buxton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Buxton_Knight</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Kenneth David Cooper</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Cooper, Kenneth David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Joseph E. Loewenstein</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Loewenstein, Joseph E.</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
