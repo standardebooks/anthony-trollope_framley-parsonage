@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-11-23T02:12:44Z</dc:date>
+		<meta property="dcterms:modified">2021-11-23T02:12:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -45,17 +44,17 @@
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A young vicar with an aristocratic patron foolishly becomes mired in debt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; is the fourth novel in the “Chronicles of Barsetshire” by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt;, and was published in book form in 1861. It has been praised for its unsentimental depiction of the lives of middle-class people in the mid-Victorian era.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; is the fourth novel in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt; series. Originally a serial, it was first published as a book in 1861, and it has since been praised for its unsentimental depiction of the lives of middle-class people in the mid-Victorian era.&lt;/p&gt;
 			&lt;p&gt;As with the other books in the series, &lt;i&gt;Framley Parsonage&lt;/i&gt; is set in the fictious English county of Barsetshire, and deals with the doings of a variety of families and characters who live in the region, several of whom have appeared in the previous books; but it primarily concerns the young Reverend Mark Robarts.&lt;/p&gt;
-			&lt;p&gt;Robarts has been appointed as vicar of the parish of Framley through the patronage of Lady Lufton of Framley Court, the mother of his long-time friend Ludovic, now Lord Lufton. After he and his wife Fanny take up residence in Framley Parsonage, Robarts is led through his friendship with Ludovic into the society of some loose-living aristocrats. Robarts eventually finds himself weakly consenting to his name being included on a bill for a loan to one of his new connections, Sowerby. By so doing, he becomes liable for debts he cannot possibly satisfy.&lt;/p&gt;
-			&lt;p&gt;An important secondary strand involves Mark Robarts’ sister Lucy, who after their father’s death comes to live with her brother’s family at the parsonage. Through them, she becomes acquainted with Lady Lufton and her son Ludovic and romantic complications ensue.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; was originally published anonymously in serial form in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and such was its popularity, during its publication a hysterical young woman apparently tried to gain notoriety in her country town by claiming to be its author. “The real writer,” we are told, “dealt very gently with the pretender.”&lt;/p&gt;
+			&lt;p&gt;Robarts has been appointed as vicar of the parish of Framley through the patronage of Lady Lufton of Framley Court, the mother of his long-time friend Ludovic, now Lord Lufton. After he and his wife Fanny take up residence in Framley Parsonage, Robarts is led into the society of some loose-living aristocrats through his friendship with Ludovic. Robarts eventually finds himself weakly consenting to his name being included on a bill for a loan to one of his new connections, Sowerby. By so doing, he becomes liable for debts he cannot possibly satisfy.&lt;/p&gt;
+			&lt;p&gt;An important secondary thread involves Mark Robarts’ sister Lucy, who after their father’s death comes to live with her brother’s family at the parsonage. Through them, she becomes acquainted with Lady Lufton and her son Ludovic, and romantic complications ensue.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; was originally published anonymously in serial form in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, and such was its popularity that during its publication a hysterical young woman apparently tried to gain notoriety in her country town by claiming to be its author. “The real writer,” we are told, “dealt very gently with the pretender.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2860</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.126297</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">211161</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Framley_Parsonage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_framley-parsonage</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -82,6 +81,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
