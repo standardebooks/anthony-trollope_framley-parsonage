@@ -43,7 +43,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>A young vicar with an aristocratic patron foolishly becomes mired in debt.</dc:abstract>
+		<meta property="schema:abstract">A young vicar with an aristocratic patron foolishly becomes mired in debt.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Framley Parsonage&lt;/i&gt; is the fourth novel in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt; series. Originally a serial, it was first published as a book in 1861, and it has since been praised for its unsentimental depiction of the lives of middle-class people in the mid-Victorian era.&lt;/p&gt;
 			&lt;p&gt;As with the other books in the series, &lt;i&gt;Framley Parsonage&lt;/i&gt; is set in the fictious English county of Barsetshire, and deals with the doings of a variety of families and characters who live in the region, several of whom have appeared in the previous books; but it primarily concerns the young Reverend Mark Robarts.&lt;/p&gt;
